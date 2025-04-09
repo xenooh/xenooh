@@ -49,6 +49,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xenooh&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-![thumb_d_2F583E5543F7E19139C6FCFFBF9607A6](https://github.com/user-attachments/assets/0b6d5e07-df3f-4fc4-b2c3-835172a1ab66)
 
 
