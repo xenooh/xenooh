@@ -1,4 +1,4 @@
-<h1 align="center">👋 안녕하세요, 저는 재노와 함께 성장 중인 개발자입니다!</h1>
+<h1 align="center">👋 안녕하세요  노베이스 개발자입니다!</h1>
 
 <p align="center">
   열심히 공부하며, 직접 <strong>AI 동반자 '재노'</strong>를 구현하는 게 목표입니다.  
