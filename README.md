@@ -39,3 +39,21 @@
 💻 언어:     HTML, CSS, JavaScript, Java
 🧰 도구:     Git, GitHub, VSCode, STS3
 🎨 디자인:   Photoshop, Illustrator, Figma (기초 학습 중)
+
+이렇게 코드 블럭이 끝나고 나면, 그 아래에 뭔가 붙이면 보여야 하는데…
+
+---
+
+## ✅ 해결 방법: 지금 이걸 복사해서 붙여 넣어줘
+
+너의 `README.md`에서 맨 마지막에 **이거 추가해**:
+
+```md
+---
+
+## 📊 GitHub 활동 통계
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xenooh&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
