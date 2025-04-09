@@ -57,3 +57,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xenooh&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
+> 이러면 **코드블럭 안에 `<img>`가 있어서** → GitHub는 그냥 텍스트로 보여줘버려!
+
+---
+
+## ✅ 바로잡는 방법
+
+`README.md`에서 아래처럼 **코드블럭(````txt`) 끝난 다음에 `<img>` 태그를 넣어줘야 해!**
+
+### ✅ 수정 예시:
+
+```md
+## 🛠️ 사용 가능한 기술
+
+```txt
+💻 언어:     HTML, CSS, JavaScript, Java
+🧰 도구:     Git, GitHub, VSCode, STS3
+🎨 디자인:   Photoshop, Illustrator, Figma (기초 학습 중)
+
+
