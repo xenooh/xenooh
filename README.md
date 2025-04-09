@@ -39,16 +39,10 @@
 💻 언어:     HTML, CSS, JavaScript, Java  
 🧰 도구:     Git, GitHub, VSCode, STS3  
 🎨 디자인:   Photoshop, Illustrator, Figma (기초 학습 중)
-
+```
 ---
 
-## ✅ 정확하게 넣는 위치
 
-### 1. 네 코드 중 **`디자인:`으로 끝나는 코드 블럭을 정확히 닫고**
-### 2. 그 **밖에** 아래 코드를 넣어야 해:
-
-```md
----
 ## 📊 GitHub 활동 통계
 
 <p align="center">
