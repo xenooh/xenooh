@@ -13,6 +13,8 @@
 - Java (Spring + OOP 개념 학습 중)
 - Spring Framework (STS3 사용 중)
 - GitHub로 포트폴리오 구성 시작
+- https://xenooh.github.io/
+- Spring boot (리액트 사용중)
 - 디자인 툴 (Photoshop, Illustrator, Figma) 기초 이해 중
 
 ---
